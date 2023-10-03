@@ -9,3 +9,6 @@ https://docs.google.com/spreadsheets/d/1b6c6ZqxtN4hwJFR9bffpY0bDV6VTV6tZZXHAaQMo
 
 Honkai Starrail Gacha Record [My Actual Account] (Simple dashboard) :
 https://docs.google.com/spreadsheets/d/1NH9VFZzWywmMZoFMV0Kp2ISEDFbGY-ISDryaAvMGa-I/edit?usp=sharing
+
+Stats and RCT & AB Test Sample :
+https://docs.google.com/spreadsheets/d/15Bod5cdkYe1r4YbwMaUSJCkXN970tBMNjFgd6odeDRg/edit#gid=638126081
